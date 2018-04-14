@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Items in the dropdown overflow menu -->
+
+    <!-- Action Item: Feet to Meters -->
+    <item
+        android:id="@+id/menuitem_feet_meters"
+        app:showAsAction="never"
+        android:title="@string/ui_menu_feet_meters">
+    </item>
+
+    <!-- Action Item: Inches to Centimeters -->
+    <item
+        android:id="@+id/menuitem_inches_cent"
+        app:showAsAction="never"
+        android:title="@string/ui_menu_inches_cent">
+    </item>
+
+    <!-- Action Item: Pounds to Grams -->
+    <item
+        android:id="@+id/menuitem_pounds_grams"
+        app:showAsAction="never"
+        android:title="@string/ui_menu_pounds_grams">
+    </item>
+
+    <!-- Action Item: Quit -->
+    <item
+        android:id="@+id/menuitem_quit"
+        app:showAsAction="never"
+        android:title="@string/ui_menu_quit">
+    </item>
+</menu>

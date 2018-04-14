@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Unit Conversion Calculator</string>
+    <string name="hello_world">Hello World</string>
+    <string name="action_setting">Settings</string>
+
+    <!-- Layout Element Strings -->
+    <string name="feet">Feet</string>
+    <string name="meters">Meters</string>
+    <string name="inches">Inches</string>
+    <string name="centimeters">Centimeters</string>
+    <string name="pounds">Pounds</string>
+    <string name="grams">Grams</string>
+
+    <!-- ActionBar Icon Strings -->
+    <string name="ui_menu_feet_meters">Feet to Meters</string>
+    <string name="ui_menu_inches_cent">Inches to Centimeters</string>
+    <string name="ui_menu_pounds_grams">Pounds to Grams</string>
+    <string name="ui_menu_quit">Menu</string>
+    <string name="zero">0.0</string>
+</resources>
